@@ -1,0 +1,50 @@
+---
+title: "Raquel Ledo Doval"
+image: "professional-pic.jpg"
+links:
+  - label: '`r fontawesome::fa(name = "linkedin", height = "30px")`'
+    url: "https://www.linkedin.com/in/ledodovalraquel/"
+  - label: <i class="ai ai-orcid ai-2x"></i>
+    url: "https://orcid.org/0000-0003-3007-2251"
+  - label: '`r fontawesome::fa(name = "github", height = "30px")`'
+    url: "https://github.com/Raqueledo"
+  - label: '`r fontawesome::fa(name = "envelope", height = "30px")`'
+    url: "mailto:r.ledo@wi.knaw.nl"
+output:
+  postcards::trestles
+---
+<!--Academicons Icons-->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+ 
+## About Me
+Raquel Ledo Doval is a biotechnologist with an specialization in Molecular and Cellular Biology. She studies marine fungi and their applications in protein mining based on seaweed biomass. Her research focuses in exploring the establishment of a circular economy-based system in which seaweed serves as primary natural resource of protein while providing many advantages to the marine habitats. With her project, she aims to contribute to a protein transition towards more sustainable and efficient ways of producing protein, able to cover the relentless increase in the global demand. She carries her research at the Westerdijk Institute, and in collaboration with other dutch institutions and industries that are dedicated to the study and conservation of seaweed in the North Sea ecosystems.  
+
+## Education
+
+**Utrecht University** | Utrecht, NL
+
+Ph.D. in Industrial and Environmental Biotechnology | April 2023 - Present
+
+**Utrecht University** | Utrecht, NL
+
+MSc in Molecular and Cellular Life Sciences | February 2019 - June 2022
+
+**University of Leon** | Leon, ES
+
+BSc in Biotechnology | September 2014 - June 2018
+
+
+## Experience
+
+**Viroclinics Biosciences BV** | BSL-III Lab Technician | June 2019 - April 2023
+
+
+## Scientific Outreach 
+
+**City Coordinator Pint of Science Utrecht** | Utrecht, NL
+
+**International Relations Manager at FEBiotec ** | Leon, ES
+
+**Teaching Assistant at Small World Initiative ** | Barcelona, ES
+
+
